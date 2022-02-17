@@ -1,1 +1,1 @@
-Aplikasi Kas
+Aplikasi buku Kas
